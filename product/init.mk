@@ -9,3 +9,6 @@ PRODUCT_PACKAGES += \
     init.target.rc \
     init.qcom.wifi.sh \
     qca6234-service.sh
+
+PRODUCT_COPY_FILES += \
+   device/xiaomi/ferrari/rootdir/etc/ueventd.qcom.rc:root/ueventd.qcom.rc
