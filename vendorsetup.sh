@@ -1,0 +1,3 @@
+add_lunch_combo XOS_ferrari-user
+add_lunch_combo XOS_ferrari-userdebug
+add_lunch_combo XOS_ferrari-eng
