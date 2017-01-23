@@ -22,7 +22,7 @@ TARGET_BOARD_PLATFORM_VARIANT := msm8939
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := ferrari
-PRODUCT_NAME := xos_ferrari
+PRODUCT_NAME := XOS_ferrari
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := MI 4i
 PRODUCT_MANUFACTURER := Xiaomi
